@@ -211,7 +211,7 @@ Hệ thống báo cáo được thiết kế theo tư duy phân tầng thông ti
 
 ### Trang 1: FMCG Retail Chain — Executive Overview
 
-![Trang 1 Executive Overview](page1_overview.png)
+![Trang 1 Executive Overview](images/overview.jfif)
 
 #### A. Mục đích chiến lược
 * Cung cấp một góc nhìn toàn cảnh tức thời (At-a-glance) về "sức khỏe" tài chính, quy mô đơn hàng và chỉ số dòng tiền cốt lõi của toàn hệ thống bán lẻ.
@@ -230,7 +230,7 @@ Hệ thống báo cáo được thiết kế theo tư duy phân tầng thông ti
 
 ### Trang 2: FMCG Retail Chain — Product & Inventory Performance (Tối Ưu Danh Mục & Chuỗi Cung Ứng)
 
-![Trang 2 Product Performance](page2_product.png)
+![Trang 2 Product Performance](images/product.jfif)
 
 #### A. Mục đích chiến lược
 * Bản đồ hóa và chẩn đoán chuyên sâu hiệu suất danh mục sản phẩm kết hợp với tốc độ lưu kho (**Vitality Days**).
@@ -249,7 +249,7 @@ Hệ thống báo cáo được thiết kế theo tư duy phân tầng thông ti
 
 ### Trang 3: FMCG Retail Chain — Customers & Employees Health (Sức Khỏe Khách Hàng & Kỷ Luật Vận Hành)
 
-![Trang 3 Customers Employees Health](page3_customer.png)
+![Trang 3 Customers Employees Health](images/customer.jfif)
 
 #### A. Mục đích chiến lược
 * Đánh giá mức độ gắn kết dài hạn của tệp khách hàng (Customer Retention) kết hợp với việc kiểm soát kỷ luật vận hành và năng suất bán hàng của đội ngũ nhân sự tuyến đầu (23 Thu ngân/Sales).
