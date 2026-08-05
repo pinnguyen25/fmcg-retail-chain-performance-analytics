@@ -12,7 +12,7 @@
 
 ## 1. Kiến Trúc Dữ Liệu & Mô Tả Hệ Thống (Data Architecture & Metadata)
 
-Hệ thống cơ sở dữ liệu được thiết kế theo mô hình **Sơ đồ hình sao mở rộng (Extended Star Schema / Snowflake Hybrid)**, tối ưu hóa tốc độ truy vấn và đảm bảo tính toàn vẹn dữ liệu trên các công cụ Business Intelligence. Hệ thống gồm 1 bảng sự kiện trung tâm (`fmcg_sales sales`), 6 bảng thứ nguyên (`fmcg_sales products, fmcg_sales employees, fmcg_sales customers, fmcg_sales cities, fmcg_sales countries, fmcg_sales categories`).
+Hệ thống cơ sở dữ liệu được thiết kế theo mô hình **Sơ đồ hình sao (Star Schema)**, tối ưu hóa tốc độ truy vấn và đảm bảo tính toàn vẹn dữ liệu trên các công cụ Business Intelligence. Hệ thống gồm 1 bảng sự kiện trung tâm (`fmcg_sales sales`), 6 bảng thứ nguyên (`fmcg_sales products, fmcg_sales employees, fmcg_sales customers, fmcg_sales cities, fmcg_sales countries, fmcg_sales categories`).
 
 ### 1.1. Từ Điển Dữ Liệu Chi Tiết (Data Dictionary)
 
